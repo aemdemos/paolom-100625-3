@@ -1,0 +1,828 @@
+{
+  "originUrl": "https://aws.amazon.com",
+  "lastCrawled": "https://aws.amazon.com/sitemaps/sitemap_blogs/",
+  "urls": [
+    {
+      "url": "https://aws.amazon.com/blogs/apn/6-steps-towards-achieving-fedramp-authorization-on-aws-with-orca-security/",
+      "source": "SITEMAPS",
+      "targetPath": "/blogs/apn/6-steps-towards-achieving-fedramp-authorization-on-aws-with-orca-security",
+      "id": "adce7914ac0df5b0cb0d7456f283771df46b8459"
+    },
+    {
+      "url": "https://aws.amazon.com/blogs/apn/787/",
+      "source": "SITEMAPS",
+      "targetPath": "/blogs/apn/787",
+      "id": "f5c0fee92a483b911b61a892391cca7da4dae583"
+    },
+    {
+      "url": "https://aws.amazon.com/blogs/apn/accelerate-product-development-and-reduce-costs-with-tech-mahindra-cloud-based-plm-solution-on-aws/",
+      "source": "SITEMAPS",
+      "targetPath": "/blogs/apn/accelerate-product-development-and-reduce-costs-with-tech-mahindra-cloud-based-plm-solution-on-aws",
+      "id": "aa3e3a7a5d72b0b7522dc73b72c458be2bbaa0c4"
+    },
+    {
+      "url": "https://aws.amazon.com/blogs/apn/accelerate-time-to-market-for-aws-iot-applications-with-aws-isv-partners/",
+      "source": "SITEMAPS",
+      "targetPath": "/blogs/apn/accelerate-time-to-market-for-aws-iot-applications-with-aws-isv-partners",
+      "id": "8bf231aca68bccb0e3e527102eaeb9b7d22ba91f"
+    },
+    {
+      "url": "https://aws.amazon.com/blogs/apn/accelerate-your-aws-marketplace-and-aws-partner-central-integration-journey/",
+      "source": "SITEMAPS",
+      "targetPath": "/blogs/apn/accelerate-your-aws-marketplace-and-aws-partner-central-integration-journey",
+      "id": "9d4b0121ec5ad705ef25e704552a2a6d23895a48"
+    },
+    {
+      "url": "https://aws.amazon.com/blogs/apn/account-and-vpc-considerations-for-vmware-cloud-on-aws/",
+      "source": "SITEMAPS",
+      "targetPath": "/blogs/apn/account-and-vpc-considerations-for-vmware-cloud-on-aws",
+      "id": "2e64b906c9ffc82d4e00b66615d30ccb6ddc8ad3"
+    },
+    {
+      "url": "https://aws.amazon.com/blogs/apn/amazon-ecs-resource-and-cost-allocation-made-easy-with-cloudhealth-container-module/",
+      "source": "SITEMAPS",
+      "targetPath": "/blogs/apn/amazon-ecs-resource-and-cost-allocation-made-easy-with-cloudhealth-container-module",
+      "id": "9c103662a5b2206410f14246a04a6cf36a0f69a8"
+    },
+    {
+      "url": "https://aws.amazon.com/blogs/apn/anatomy-of-a-supply-chain-ransomware-attack-and-how-to-prevent-it-with-barracuda-cloudgen-waf-on-aws/",
+      "source": "SITEMAPS",
+      "targetPath": "/blogs/apn/anatomy-of-a-supply-chain-ransomware-attack-and-how-to-prevent-it-with-barracuda-cloudgen-waf-on-aws",
+      "id": "762a56849a9f01bbf6b245382235d361fb30d4ca"
+    },
+    {
+      "url": "https://aws.amazon.com/blogs/apn/announcing-aws-enterprise-on-ramp-a-new-support-plan/",
+      "source": "SITEMAPS",
+      "targetPath": "/blogs/apn/announcing-aws-enterprise-on-ramp-a-new-support-plan",
+      "id": "0a6b0c64acc5ab6fc0cda7987968a8cc772cf20d"
+    },
+    {
+      "url": "https://aws.amazon.com/blogs/apn/announcing-the-india-2022-aws-partners-of-the-year/",
+      "source": "SITEMAPS",
+      "targetPath": "/blogs/apn/announcing-the-india-2022-aws-partners-of-the-year",
+      "id": "a34f27c6944bba1c1ade96befb148bb09121e358"
+    },
+    {
+      "url": "https://aws.amazon.com/blogs/apn/announcing-two-new-apn-partner-success-stories-mobiquity-and-smartronix/",
+      "source": "SITEMAPS",
+      "targetPath": "/blogs/apn/announcing-two-new-apn-partner-success-stories-mobiquity-and-smartronix",
+      "id": "cc3f6d31cb34e041c86b1e10dc2e07b99d0156a0"
+    },
+    {
+      "url": "https://aws.amazon.com/blogs/apn/announcing-upcoming-apn-competencies/",
+      "source": "SITEMAPS",
+      "targetPath": "/blogs/apn/announcing-upcoming-apn-competencies",
+      "id": "56c366240905bedf4011f61e8228ec38d142f144"
+    },
+    {
+      "url": "https://aws.amazon.com/blogs/apn/apn-competency-mobile-solutions-aws/",
+      "source": "SITEMAPS",
+      "targetPath": "/blogs/apn/apn-competency-mobile-solutions-aws",
+      "id": "0a5682d58cd72fa9c61abe1e187406a59f6dbad0"
+    },
+    {
+      "url": "https://aws.amazon.com/blogs/apn/apn-marketing-central-now-available-in-korean-new-localized-campaigns/",
+      "source": "SITEMAPS",
+      "targetPath": "/blogs/apn/apn-marketing-central-now-available-in-korean-new-localized-campaigns",
+      "id": "c26f82bbd1ae4e195b42e8e091e1926cf38436ec"
+    },
+    {
+      "url": "https://aws.amazon.com/blogs/apn/apn-partners-can-now-conduct-aws-immersion-day-workshops-for-their-customers/",
+      "source": "SITEMAPS",
+      "targetPath": "/blogs/apn/apn-partners-can-now-conduct-aws-immersion-day-workshops-for-their-customers",
+      "id": "9589907fb5a0528d19753e1d4e9018267acf0eaf"
+    },
+    {
+      "url": "https://aws.amazon.com/blogs/apn/apn-program-updates-for-2015-2/",
+      "source": "SITEMAPS",
+      "targetPath": "/blogs/apn/apn-program-updates-for-2015-2",
+      "id": "3e60b5377add10616837c62fe7f56c87c652a788"
+    },
+    {
+      "url": "https://aws.amazon.com/blogs/apn/application-modernization-with-mongodb-atlas-on-aws/",
+      "source": "SITEMAPS",
+      "targetPath": "/blogs/apn/application-modernization-with-mongodb-atlas-on-aws",
+      "id": "94d5d417258f6f246a5ee5f3707cd3837b7f73e2"
+    },
+    {
+      "url": "https://aws.amazon.com/blogs/apn/archiving-amazon-msk-data-to-amazon-s3-with-the-lenses-io-s3-kafka-connect-connector/",
+      "source": "SITEMAPS",
+      "targetPath": "/blogs/apn/archiving-amazon-msk-data-to-amazon-s3-with-the-lenses-io-s3-kafka-connect-connector",
+      "id": "c5c319b54fd38e91c8b9c6072b70b728eb3d7a35"
+    },
+    {
+      "url": "https://aws.amazon.com/blogs/apn/armory-launches-continuous-deployment-as-a-service-solution-with-support-from-aws-saas-factory/",
+      "source": "SITEMAPS",
+      "targetPath": "/blogs/apn/armory-launches-continuous-deployment-as-a-service-solution-with-support-from-aws-saas-factory",
+      "id": "da3a4c69441bfba4639eac2ce0d6ffec43fa95bc"
+    },
+    {
+      "url": "https://aws.amazon.com/blogs/apn/automate-your-aws-devops-validation-pipeline-with-the-infosys-cloud-infrastructure-validation-solution/",
+      "source": "SITEMAPS",
+      "targetPath": "/blogs/apn/automate-your-aws-devops-validation-pipeline-with-the-infosys-cloud-infrastructure-validation-solution",
+      "id": "43c194ceb878f5392c7047ad28241b37cc4b044d"
+    },
+    {
+      "url": "https://aws.amazon.com/blogs/apn/automatically-resize-amazon-ebs-capacity-with-zesty-disk-for-cost-efficiency-and-consistent-performance/",
+      "source": "SITEMAPS",
+      "targetPath": "/blogs/apn/automatically-resize-amazon-ebs-capacity-with-zesty-disk-for-cost-efficiency-and-consistent-performance",
+      "id": "ba7a6ba91145d69d00dca5eb40bc036fb8798cd5"
+    },
+    {
+      "url": "https://aws.amazon.com/blogs/apn/automating-a-global-meraki-deployment-in-multiple-aws-regions/",
+      "source": "SITEMAPS",
+      "targetPath": "/blogs/apn/automating-a-global-meraki-deployment-in-multiple-aws-regions",
+      "id": "304670458aab9c74d45ceff4b735b5f51d0b1391"
+    },
+    {
+      "url": "https://aws.amazon.com/blogs/apn/automating-secure-and-scalable-website-deployment-on-aws-with-amazon-cloudfront-and-aws-cdk/",
+      "source": "SITEMAPS",
+      "targetPath": "/blogs/apn/automating-secure-and-scalable-website-deployment-on-aws-with-amazon-cloudfront-and-aws-cdk",
+      "id": "6f4d665283edb443cb84ca726921dddbf4541c37"
+    },
+    {
+      "url": "https://aws.amazon.com/blogs/apn/aws-analytics-services-explained-from-data-lakes-to-machine-learning/",
+      "source": "SITEMAPS",
+      "targetPath": "/blogs/apn/aws-analytics-services-explained-from-data-lakes-to-machine-learning",
+      "id": "a94bd7849af523c23fc936f2570a295ad6ced960"
+    },
+    {
+      "url": "https://aws.amazon.com/blogs/apn/aws-cloud-solutions-transforming-financial-services-event-at-aws-new-york-loft/",
+      "source": "SITEMAPS",
+      "targetPath": "/blogs/apn/aws-cloud-solutions-transforming-financial-services-event-at-aws-new-york-loft",
+      "id": "2df26c1c21985da4859dd8ae87f66d2e5e9041d1"
+    },
+    {
+      "url": "https://aws.amazon.com/blogs/apn/aws-marketplace-barracuda/",
+      "source": "SITEMAPS",
+      "targetPath": "/blogs/apn/aws-marketplace-barracuda",
+      "id": "fa4134b352be44e22c58b9b367e33a624e44b50b"
+    },
+    {
+      "url": "https://aws.amazon.com/blogs/apn/aws-marketplace-product-support-connection-helps-software-vendors-provide-more-seamless-product-support/",
+      "source": "SITEMAPS",
+      "targetPath": "/blogs/apn/aws-marketplace-product-support-connection-helps-software-vendors-provide-more-seamless-product-support",
+      "id": "6ede6cbe4fe3ca1617e1381a133eba2931d4f140"
+    },
+    {
+      "url": "https://aws.amazon.com/blogs/apn/aws-partner-webinar-series-september-october/",
+      "source": "SITEMAPS",
+      "targetPath": "/blogs/apn/aws-partner-webinar-series-september-october",
+      "id": "09a3b817fe796f15129697196d912a110582aa01"
+    },
+    {
+      "url": "https://aws.amazon.com/blogs/apn/aws-partners-support-the-migration-and-modernization-of-customers-most-strategic-workloads/",
+      "source": "SITEMAPS",
+      "targetPath": "/blogs/apn/aws-partners-support-the-migration-and-modernization-of-customers-most-strategic-workloads",
+      "id": "d83971ea7b1527969ab88f706e18edb37b91e000"
+    },
+    {
+      "url": "https://aws.amazon.com/blogs/apn/aws-server-migration-service-server-migration-to-the-cloud-made-easy/",
+      "source": "SITEMAPS",
+      "targetPath": "/blogs/apn/aws-server-migration-service-server-migration-to-the-cloud-made-easy",
+      "id": "b7eacf40b6172d6efa50c74decfc660858a58b20"
+    },
+    {
+      "url": "https://aws.amazon.com/blogs/apn/aws-training-and-certification-offers-expanded-options-and-more-functionality-for-apn-partners/",
+      "source": "SITEMAPS",
+      "targetPath": "/blogs/apn/aws-training-and-certification-offers-expanded-options-and-more-functionality-for-apn-partners",
+      "id": "fa3a44bce3fa052ed670351d5ebd4dd6a3e9c2e9"
+    },
+    {
+      "url": "https://aws.amazon.com/blogs/apn/ayla-clearscale-cognizant-and-netapp-aws-partner-success-stories/",
+      "source": "SITEMAPS",
+      "targetPath": "/blogs/apn/ayla-clearscale-cognizant-and-netapp-aws-partner-success-stories",
+      "id": "605e977da9814b5a674ee5b5e27f01acd26afa1a"
+    },
+    {
+      "url": "https://aws.amazon.com/blogs/apn/best-practices-for-optimizing-kubernetes-costs-on-aws-with-stormforge-and-karpenter/",
+      "source": "SITEMAPS",
+      "targetPath": "/blogs/apn/best-practices-for-optimizing-kubernetes-costs-on-aws-with-stormforge-and-karpenter",
+      "id": "16dff24e7d43a4fb237095654c72b3af5a62bc04"
+    },
+    {
+      "url": "https://aws.amazon.com/blogs/apn/breaking-down-silos-building-efficiency-leapthoughts-fulcrumhq-integrated-digital-delivery-platform-reshapes-construction/",
+      "source": "SITEMAPS",
+      "targetPath": "/blogs/apn/breaking-down-silos-building-efficiency-leapthoughts-fulcrumhq-integrated-digital-delivery-platform-reshapes-construction",
+      "id": "26bade079607ce52f6c96e2caa1e668fa38da983"
+    },
+    {
+      "url": "https://aws.amazon.com/blogs/apn/breaking-language-boundaries-multilingual-genai-solutions-with-amazon-bedrock/",
+      "source": "SITEMAPS",
+      "targetPath": "/blogs/apn/breaking-language-boundaries-multilingual-genai-solutions-with-amazon-bedrock",
+      "id": "85307f4404a7e7fefdbff733446ec5f273a22e92"
+    },
+    {
+      "url": "https://aws.amazon.com/blogs/apn/bring-your-mainframe-application-development-into-your-enterprise-aws-code-pipelines/",
+      "source": "SITEMAPS",
+      "targetPath": "/blogs/apn/bring-your-mainframe-application-development-into-your-enterprise-aws-code-pipelines",
+      "id": "f87bf554a872b307c22c089c05466715c48b88ac"
+    },
+    {
+      "url": "https://aws.amazon.com/blogs/apn/building-a-case-for-cloud-migration-based-on-tco-with-cc-analyzer-from-cloudchomp/",
+      "source": "SITEMAPS",
+      "targetPath": "/blogs/apn/building-a-case-for-cloud-migration-based-on-tco-with-cc-analyzer-from-cloudchomp",
+      "id": "ec1c8a6d856bb0cd24e10c8db75b1747dea951df"
+    },
+    {
+      "url": "https://aws.amazon.com/blogs/apn/building-an-interactive-sales-portal-for-automotive-using-aws-microservice-architecture/",
+      "source": "SITEMAPS",
+      "targetPath": "/blogs/apn/building-an-interactive-sales-portal-for-automotive-using-aws-microservice-architecture",
+      "id": "02e3bdeccaa693e66e4ea3d711455c7f441e2b34"
+    },
+    {
+      "url": "https://aws.amazon.com/blogs/apn/building-cross-account-deployment-in-gitlab-pipelines-using-aws-cdk/",
+      "source": "SITEMAPS",
+      "targetPath": "/blogs/apn/building-cross-account-deployment-in-gitlab-pipelines-using-aws-cdk",
+      "id": "c9d064f9230a3f434f9342b0f48f928b51101dde"
+    },
+    {
+      "url": "https://aws.amazon.com/blogs/apn/building-foundational-security-and-compliance-capabilities-in-10-minutes-with-the-cis-aws-quick-start/",
+      "source": "SITEMAPS",
+      "targetPath": "/blogs/apn/building-foundational-security-and-compliance-capabilities-in-10-minutes-with-the-cis-aws-quick-start",
+      "id": "09a1e7f2a6adb149e0a376ad4f99105a998f610f"
+    },
+    {
+      "url": "https://aws.amazon.com/blogs/apn/building-reliable-and-scalable-generative-ai-infrastructure-on-aws-with-ray-and-anyscale/",
+      "source": "SITEMAPS",
+      "targetPath": "/blogs/apn/building-reliable-and-scalable-generative-ai-infrastructure-on-aws-with-ray-and-anyscale",
+      "id": "7780a29af6eb32036d487c3438579576405f8d35"
+    },
+    {
+      "url": "https://aws.amazon.com/blogs/apn/building-successful-and-profitable-cloud-businesses-with-the-aws-partner-transformation-program/",
+      "source": "SITEMAPS",
+      "targetPath": "/blogs/apn/building-successful-and-profitable-cloud-businesses-with-the-aws-partner-transformation-program",
+      "id": "e12246c11ab95b6c49df88e7035a8ea68ce27792"
+    },
+    {
+      "url": "https://aws.amazon.com/blogs/apn/caleidos-claudia-marquez-celebrating-international-womens-day-and-breaking-the-bias/",
+      "source": "SITEMAPS",
+      "targetPath": "/blogs/apn/caleidos-claudia-marquez-celebrating-international-womens-day-and-breaking-the-bias",
+      "id": "db527db2908305ba4dc759b37dc41084c4504934"
+    },
+    {
+      "url": "https://aws.amazon.com/blogs/apn/case-study-siemens-factory-rolls-out-aws-iot-project-in-less-than-8-weeks/",
+      "source": "SITEMAPS",
+      "targetPath": "/blogs/apn/case-study-siemens-factory-rolls-out-aws-iot-project-in-less-than-8-weeks",
+      "id": "cfdc66eb26bda35c1a585ef65ba51722069e61ec"
+    },
+    {
+      "url": "https://aws.amazon.com/blogs/apn/centralized-aws-observability-with-grafana-cloud-for-monitoring-analytics-and-optimization/",
+      "source": "SITEMAPS",
+      "targetPath": "/blogs/apn/centralized-aws-observability-with-grafana-cloud-for-monitoring-analytics-and-optimization",
+      "id": "4b4db4f7002207fd9c48a77744b960f21bd1f61f"
+    },
+    {
+      "url": "https://aws.amazon.com/blogs/apn/cloud-posture-and-threat-analytics-with-cisco-secure-cloud-analytics/",
+      "source": "SITEMAPS",
+      "targetPath": "/blogs/apn/cloud-posture-and-threat-analytics-with-cisco-secure-cloud-analytics",
+      "id": "639d1a7db6481e259a09364623b50c789e65cbf5"
+    },
+    {
+      "url": "https://aws.amazon.com/blogs/apn/cloudanix-real-time-threat-and-anomaly-detection-for-workloads-on-aws/",
+      "source": "SITEMAPS",
+      "targetPath": "/blogs/apn/cloudanix-real-time-threat-and-anomaly-detection-for-workloads-on-aws",
+      "id": "414e060f03dd514905c881c052c67545ce744976"
+    },
+    {
+      "url": "https://aws.amazon.com/blogs/apn/cognizant-customer-concierge-solution-connects-amazon-just-walk-out-technology-to-any-retail-system/",
+      "source": "SITEMAPS",
+      "targetPath": "/blogs/apn/cognizant-customer-concierge-solution-connects-amazon-just-walk-out-technology-to-any-retail-system",
+      "id": "f1b5bd0cb57848917198aa9d092eb80471e1a2a3"
+    },
+    {
+      "url": "https://aws.amazon.com/blogs/apn/computer-vision-at-scale-with-dask-and-pytorch-on-amazon-ec2-spot-instances/",
+      "source": "SITEMAPS",
+      "targetPath": "/blogs/apn/computer-vision-at-scale-with-dask-and-pytorch-on-amazon-ec2-spot-instances",
+      "id": "4babdcc53247ad4e4138eb3e82bd39c837d759bd"
+    },
+    {
+      "url": "https://aws.amazon.com/blogs/apn/connecting-operational-technology-to-aws-using-the-exor-exware707t-field-gateway/",
+      "source": "SITEMAPS",
+      "targetPath": "/blogs/apn/connecting-operational-technology-to-aws-using-the-exor-exware707t-field-gateway",
+      "id": "6b69ed7bc8c3432d8ba1b67714f777e9d398713c"
+    },
+    {
+      "url": "https://aws.amazon.com/blogs/apn/creating-energy-iot-solutions-using-intel-soc-fpga-devices-and-aws-services/",
+      "source": "SITEMAPS",
+      "targetPath": "/blogs/apn/creating-energy-iot-solutions-using-intel-soc-fpga-devices-and-aws-services",
+      "id": "3d7bc34e82af2ce923ce70ddb9b4fa4e7515225f"
+    },
+    {
+      "url": "https://aws.amazon.com/blogs/apn/customer-success-stories-from-aws-machine-learning-competency-partners/",
+      "source": "SITEMAPS",
+      "targetPath": "/blogs/apn/customer-success-stories-from-aws-machine-learning-competency-partners",
+      "id": "ceaade81144ede39e461a0e89c007bd91a75cd86"
+    },
+    {
+      "url": "https://aws.amazon.com/blogs/apn/delivering-closed-loop-assurance-with-infosys-digital-operations-ecosystem-platform-on-aws/",
+      "source": "SITEMAPS",
+      "targetPath": "/blogs/apn/delivering-closed-loop-assurance-with-infosys-digital-operations-ecosystem-platform-on-aws",
+      "id": "398c819b603ce5548b9ca7d299988b7de1042282"
+    },
+    {
+      "url": "https://aws.amazon.com/blogs/apn/design-considerations-for-disaster-recovery-with-vmware-cloud-on-aws/",
+      "source": "SITEMAPS",
+      "targetPath": "/blogs/apn/design-considerations-for-disaster-recovery-with-vmware-cloud-on-aws",
+      "id": "11208989d81c3e8f0113f5d0de34dcdec02e57d6"
+    },
+    {
+      "url": "https://aws.amazon.com/blogs/apn/developing-a-serverless-fully-managed-connected-vehicle-platform-with-real-time-analytics-on-aws/",
+      "source": "SITEMAPS",
+      "targetPath": "/blogs/apn/developing-a-serverless-fully-managed-connected-vehicle-platform-with-real-time-analytics-on-aws",
+      "id": "a5b97cd21a4be2670181e77640fa80c0c5f865f3"
+    },
+    {
+      "url": "https://aws.amazon.com/blogs/apn/developing-data-driven-iot-business-models-for-sustainability-with-storm-reply/",
+      "source": "SITEMAPS",
+      "targetPath": "/blogs/apn/developing-data-driven-iot-business-models-for-sustainability-with-storm-reply",
+      "id": "f33375f8801e3ef64ac56f3a966c1967388b6762"
+    },
+    {
+      "url": "https://aws.amazon.com/blogs/apn/diving-deep-on-the-foundational-blocks-of-vmware-cloud-on-aws/",
+      "source": "SITEMAPS",
+      "targetPath": "/blogs/apn/diving-deep-on-the-foundational-blocks-of-vmware-cloud-on-aws",
+      "id": "3653a9d7cf3e028d4ac502a2bb6becea5eabe193"
+    },
+    {
+      "url": "https://aws.amazon.com/blogs/apn/dont-miss-new-and-updated-content-on-the-apn-portal/",
+      "source": "SITEMAPS",
+      "targetPath": "/blogs/apn/dont-miss-new-and-updated-content-on-the-apn-portal",
+      "id": "f309ed1565dd0b21b080b9a645f0b96d2d2a034a"
+    },
+    {
+      "url": "https://aws.amazon.com/blogs/apn/dont-miss-the-aws-partner-summit-in-singapore-on-april-29th/",
+      "source": "SITEMAPS",
+      "targetPath": "/blogs/apn/dont-miss-the-aws-partner-summit-in-singapore-on-april-29th",
+      "id": "b8cffde66215b19acc3ea26a84b888e6667ac024"
+    },
+    {
+      "url": "https://aws.amazon.com/blogs/apn/driving-innovation-in-social-services-with-thoughtworks-genai-digital-product-accelerator-powered-by-amazon-bedrock/",
+      "source": "SITEMAPS",
+      "targetPath": "/blogs/apn/driving-innovation-in-social-services-with-thoughtworks-genai-digital-product-accelerator-powered-by-amazon-bedrock",
+      "id": "42ac838cdb406aa239d958a772019fccb6938bb9"
+    },
+    {
+      "url": "https://aws.amazon.com/blogs/apn/ebura-saas-competency-journey-delivering-an-ai-powered-saas-solution-for-ai-io/",
+      "source": "SITEMAPS",
+      "targetPath": "/blogs/apn/ebura-saas-competency-journey-delivering-an-ai-powered-saas-solution-for-ai-io",
+      "id": "34b78099289afdbcd0a3fab2c9bb57a6ca53dd00"
+    },
+    {
+      "url": "https://aws.amazon.com/blogs/apn/egain-cobrowse-provides-collaborative-real-time-support-for-amazon-connect-contact-centers/",
+      "source": "SITEMAPS",
+      "targetPath": "/blogs/apn/egain-cobrowse-provides-collaborative-real-time-support-for-amazon-connect-contact-centers",
+      "id": "085d4fadbe6e5fdb29908cc7558af01e52fbe3a7"
+    },
+    {
+      "url": "https://aws.amazon.com/blogs/apn/egl-creates-next-generation-esports-platform-using-aws-serverless-with-help-from-code-wizards/",
+      "source": "SITEMAPS",
+      "targetPath": "/blogs/apn/egl-creates-next-generation-esports-platform-using-aws-serverless-with-help-from-code-wizards",
+      "id": "b1234001571e38b1d72d167dd209ec49509225a9"
+    },
+    {
+      "url": "https://aws.amazon.com/blogs/apn/enhancing-aws-partner-central-to-deliver-a-simple-personalized-and-value-driven-experience/",
+      "source": "SITEMAPS",
+      "targetPath": "/blogs/apn/enhancing-aws-partner-central-to-deliver-a-simple-personalized-and-value-driven-experience",
+      "id": "d6e3e199949fc4d2727a2290fa90609a911d970f"
+    },
+    {
+      "url": "https://aws.amazon.com/blogs/apn/enhancing-customer-and-it-service-management-with-amazon-connect-and-servicenow-voice/",
+      "source": "SITEMAPS",
+      "targetPath": "/blogs/apn/enhancing-customer-and-it-service-management-with-amazon-connect-and-servicenow-voice",
+      "id": "1466a217821e62a52d098b9d34b98312eba5cb2e"
+    },
+    {
+      "url": "https://aws.amazon.com/blogs/apn/ensuring-safe-and-sustainable-autonomous-vehicle-validation-on-aws-with-tcs-mobility-suite-smart-validation/",
+      "source": "SITEMAPS",
+      "targetPath": "/blogs/apn/ensuring-safe-and-sustainable-autonomous-vehicle-validation-on-aws-with-tcs-mobility-suite-smart-validation",
+      "id": "4a2cde448cd1391b9954b1a48f9fce60c46d1b42"
+    },
+    {
+      "url": "https://aws.amazon.com/blogs/apn/enterprises-migrate-to-aws-with-confidence-with-cloud-native-visibility/",
+      "source": "SITEMAPS",
+      "targetPath": "/blogs/apn/enterprises-migrate-to-aws-with-confidence-with-cloud-native-visibility",
+      "id": "e0e803c43439443cce1e1987a64e4aca72c6124f"
+    },
+    {
+      "url": "https://aws.amazon.com/blogs/apn/event-driven-security-monitoring-with-arctic-wolf-and-aws-security-hub/",
+      "source": "SITEMAPS",
+      "targetPath": "/blogs/apn/event-driven-security-monitoring-with-arctic-wolf-and-aws-security-hub",
+      "id": "f33867939579d8b6ef5fea53218b7bd36ae2d97d"
+    },
+    {
+      "url": "https://aws.amazon.com/blogs/apn/exasol-accelerates-customers-migration-to-cloud-with-support-of-aws-saas-factory/",
+      "source": "SITEMAPS",
+      "targetPath": "/blogs/apn/exasol-accelerates-customers-migration-to-cloud-with-support-of-aws-saas-factory",
+      "id": "1000f32b4a6595cdcc2831dfaf0514b8c260dd13"
+    },
+    {
+      "url": "https://aws.amazon.com/blogs/apn/explore-the-saas-journey-framework-in-new-aws-whitepaper/",
+      "source": "SITEMAPS",
+      "targetPath": "/blogs/apn/explore-the-saas-journey-framework-in-new-aws-whitepaper",
+      "id": "e61df33417f47f5bd24fc3c11a03575c25879d3c"
+    },
+    {
+      "url": "https://aws.amazon.com/blogs/apn/fast-accurate-alternate-credit-decisioning-using-electrifai-machine-learning-on-aws/",
+      "source": "SITEMAPS",
+      "targetPath": "/blogs/apn/fast-accurate-alternate-credit-decisioning-using-electrifai-machine-learning-on-aws",
+      "id": "9e575d87e26b4a19fa3a25cc5f1cf40af6779d1b"
+    },
+    {
+      "url": "https://aws.amazon.com/blogs/apn/file-sync-and-share-with-qumulo-continuous-replication-on-aws/",
+      "source": "SITEMAPS",
+      "targetPath": "/blogs/apn/file-sync-and-share-with-qumulo-continuous-replication-on-aws",
+      "id": "94c5f343ae05463d1d1103fe071c6f82659f021a"
+    },
+    {
+      "url": "https://aws.amazon.com/blogs/apn/four-key-steps-of-optimizing-your-it-resources/",
+      "source": "SITEMAPS",
+      "targetPath": "/blogs/apn/four-key-steps-of-optimizing-your-it-resources",
+      "id": "d2dcb10abcf631d3b183d9868a528bb24bb16229"
+    },
+    {
+      "url": "https://aws.amazon.com/blogs/apn/gathering-market-intelligence-from-the-web-using-cloud-based-ai-and-ml-techniques/",
+      "source": "SITEMAPS",
+      "targetPath": "/blogs/apn/gathering-market-intelligence-from-the-web-using-cloud-based-ai-and-ml-techniques",
+      "id": "16c8f7742cd760060350c5f5ef9ee47c4ea26638"
+    },
+    {
+      "url": "https://aws.amazon.com/blogs/apn/get-a-blockchain-app-into-production-fast-with-hyperledger-fabric-and-kaleido/",
+      "source": "SITEMAPS",
+      "targetPath": "/blogs/apn/get-a-blockchain-app-into-production-fast-with-hyperledger-fabric-and-kaleido",
+      "id": "9481f88ec9f66126e06b732cce77b35e9f498904"
+    },
+    {
+      "url": "https://aws.amazon.com/blogs/apn/get-dynamic-insights-into-your-cloud-with-an-application-centric-view/",
+      "source": "SITEMAPS",
+      "targetPath": "/blogs/apn/get-dynamic-insights-into-your-cloud-with-an-application-centric-view",
+      "id": "6e476235f57ae5016b2b847b9dbfc434f95572ef"
+    },
+    {
+      "url": "https://aws.amazon.com/blogs/apn/have-you-registered-for-the-upcoming-aws-partner-summit-canada/",
+      "source": "SITEMAPS",
+      "targetPath": "/blogs/apn/have-you-registered-for-the-upcoming-aws-partner-summit-canada",
+      "id": "139a78d47438cccf92ed6fc98c8d6095a10acecd"
+    },
+    {
+      "url": "https://aws.amazon.com/blogs/apn/hipaa-compliancy-on-aws-baa/",
+      "source": "SITEMAPS",
+      "targetPath": "/blogs/apn/hipaa-compliancy-on-aws-baa",
+      "id": "4db60390185f6e6f74c75da983580a0f0c60f20f"
+    },
+    {
+      "url": "https://aws.amazon.com/blogs/apn/how-amazon-eks-and-precisely-geo-addressing-sdk-power-real-time-decisions/",
+      "source": "SITEMAPS",
+      "targetPath": "/blogs/apn/how-amazon-eks-and-precisely-geo-addressing-sdk-power-real-time-decisions",
+      "id": "6f83a215f99c68f82730a2fb0a8f477e19339935"
+    },
+    {
+      "url": "https://aws.amazon.com/blogs/apn/how-apn-partners-can-engage-with-the-aws-direct-connect-partner-model/",
+      "source": "SITEMAPS",
+      "targetPath": "/blogs/apn/how-apn-partners-can-engage-with-the-aws-direct-connect-partner-model",
+      "id": "b0f9a55daf4a5697d350b77accb66fbce3bb7709"
+    },
+    {
+      "url": "https://aws.amazon.com/blogs/apn/how-atos-transformed-a-customers-sap-landscape-with-minimal-downtime-and-low-risk/",
+      "source": "SITEMAPS",
+      "targetPath": "/blogs/apn/how-atos-transformed-a-customers-sap-landscape-with-minimal-downtime-and-low-risk",
+      "id": "a1c8c54cf6580e9ad5a3e43320893bf86d780c8c"
+    },
+    {
+      "url": "https://aws.amazon.com/blogs/apn/how-aws-machine-learning-services-increase-medical-coding-accuracy-and-efficiency/",
+      "source": "SITEMAPS",
+      "targetPath": "/blogs/apn/how-aws-machine-learning-services-increase-medical-coding-accuracy-and-efficiency",
+      "id": "2b5999d915c4d73b48885083ffa6ef9d600dec3b"
+    },
+    {
+      "url": "https://aws.amazon.com/blogs/apn/how-aws-partners-can-conduct-a-high-quality-cloud-readiness-assessment-for-customers/",
+      "source": "SITEMAPS",
+      "targetPath": "/blogs/apn/how-aws-partners-can-conduct-a-high-quality-cloud-readiness-assessment-for-customers",
+      "id": "fe2d5061494d83013cf8aca13fb8a32f982a94fc"
+    },
+    {
+      "url": "https://aws.amazon.com/blogs/apn/how-aws-partners-can-get-started-with-aws-outposts-by-knowing-what-its-not/",
+      "source": "SITEMAPS",
+      "targetPath": "/blogs/apn/how-aws-partners-can-get-started-with-aws-outposts-by-knowing-what-its-not",
+      "id": "8caed994dca18985635eb862288be9d134016488"
+    },
+    {
+      "url": "https://aws.amazon.com/blogs/apn/how-capgemini-uses-aws-iot-to-monitor-farmland-through-agricultural-insights/",
+      "source": "SITEMAPS",
+      "targetPath": "/blogs/apn/how-capgemini-uses-aws-iot-to-monitor-farmland-through-agricultural-insights",
+      "id": "3396e94054422e959af7ee15694a654e3cdb30fe"
+    },
+    {
+      "url": "https://aws.amazon.com/blogs/apn/how-cloud-backup-for-mainframes-cuts-costs-with-model9-and-aws/",
+      "source": "SITEMAPS",
+      "targetPath": "/blogs/apn/how-cloud-backup-for-mainframes-cuts-costs-with-model9-and-aws",
+      "id": "6af443f462cf1ad55ce1fd904d81d36bac665b5b"
+    },
+    {
+      "url": "https://aws.amazon.com/blogs/apn/how-cubeangle-built-a-serverless-file-ingestion-and-processing-framework-powered-by-aws/",
+      "source": "SITEMAPS",
+      "targetPath": "/blogs/apn/how-cubeangle-built-a-serverless-file-ingestion-and-processing-framework-powered-by-aws",
+      "id": "2e03a69cc6329000c8e4c57584b7d779544da6ab"
+    },
+    {
+      "url": "https://aws.amazon.com/blogs/apn/how-customers-can-run-and-protect-workloads-with-aws-storage-partner-solutions/",
+      "source": "SITEMAPS",
+      "targetPath": "/blogs/apn/how-customers-can-run-and-protect-workloads-with-aws-storage-partner-solutions",
+      "id": "c00cf5c88919a624bd78f5f923fdb42d0f058e89"
+    },
+    {
+      "url": "https://aws.amazon.com/blogs/apn/how-insider-learned-to-scale-a-production-grade-elasticsearch-cluster-on-aws/",
+      "source": "SITEMAPS",
+      "targetPath": "/blogs/apn/how-insider-learned-to-scale-a-production-grade-elasticsearch-cluster-on-aws",
+      "id": "98be85f73ef495a1ea70bfbb44dfe407b0d73f7d"
+    },
+    {
+      "url": "https://aws.amazon.com/blogs/apn/how-pariveda-enables-operational-data-observability-across-your-aws-data-lake-at-scale/",
+      "source": "SITEMAPS",
+      "targetPath": "/blogs/apn/how-pariveda-enables-operational-data-observability-across-your-aws-data-lake-at-scale",
+      "id": "739bcbc89bd93c17f38233225cf7e890b8f5ab35"
+    },
+    {
+      "url": "https://aws.amazon.com/blogs/apn/how-road-services-seamlessly-integrate-with-transportation-management-via-bosch-l-os-on-aws/",
+      "source": "SITEMAPS",
+      "targetPath": "/blogs/apn/how-road-services-seamlessly-integrate-with-transportation-management-via-bosch-l-os-on-aws",
+      "id": "11fa14265fb8ac55850f68b46d02c73cd08e43ee"
+    },
+    {
+      "url": "https://aws.amazon.com/blogs/apn/how-slalom-created-personalized-interactive-event-experiences-using-amazon-rekognition/",
+      "source": "SITEMAPS",
+      "targetPath": "/blogs/apn/how-slalom-created-personalized-interactive-event-experiences-using-amazon-rekognition",
+      "id": "70eb4b09412a5ed81695d457787d0bd0c2aa35c1"
+    },
+    {
+      "url": "https://aws.amazon.com/blogs/apn/how-tcs-is-delivering-remote-virtual-inspections-for-insurers-enabled-by-aws-services/",
+      "source": "SITEMAPS",
+      "targetPath": "/blogs/apn/how-tcs-is-delivering-remote-virtual-inspections-for-insurers-enabled-by-aws-services",
+      "id": "1bf7354399e6b7771b9a0e4426a4ec56736f27dd"
+    },
+    {
+      "url": "https://aws.amazon.com/blogs/apn/how-the-tcs-ez-lake-access-solution-simplifies-data-lake-house-access-management/",
+      "source": "SITEMAPS",
+      "targetPath": "/blogs/apn/how-the-tcs-ez-lake-access-solution-simplifies-data-lake-house-access-management",
+      "id": "6bfda0e502a05502410a884dfd97a60edbcc9e7b"
+    },
+    {
+      "url": "https://aws.amazon.com/blogs/apn/how-to-accelerate-interface-development-with-skuid-no-code-studio-on-aws/",
+      "source": "SITEMAPS",
+      "targetPath": "/blogs/apn/how-to-accelerate-interface-development-with-skuid-no-code-studio-on-aws",
+      "id": "ae24263fbd86754c3922d37cc8174c777cf19b9a"
+    },
+    {
+      "url": "https://aws.amazon.com/blogs/apn/how-to-centralize-ssh-key-management-with-userify-and-aws-cloudformation/",
+      "source": "SITEMAPS",
+      "targetPath": "/blogs/apn/how-to-centralize-ssh-key-management-with-userify-and-aws-cloudformation",
+      "id": "de063a549873a7efbd2566c78f26e108dc36dc94"
+    },
+    {
+      "url": "https://aws.amazon.com/blogs/apn/how-to-contribute-to-the-aws-week-in-review-blog-post/",
+      "source": "SITEMAPS",
+      "targetPath": "/blogs/apn/how-to-contribute-to-the-aws-week-in-review-blog-post",
+      "id": "b32ecfd8fdd1ab4e1ed04d115c35a6354dfcd635"
+    },
+    {
+      "url": "https://aws.amazon.com/blogs/apn/how-to-easily-deploy-an-amazon-eks-cluster-with-pulumi/",
+      "source": "SITEMAPS",
+      "targetPath": "/blogs/apn/how-to-easily-deploy-an-amazon-eks-cluster-with-pulumi",
+      "id": "6e2c53aa505434f4874ab53c136623d82802ca01"
+    },
+    {
+      "url": "https://aws.amazon.com/blogs/apn/how-to-enhance-the-5g-network-planning-using-analytics-for-faster-time-to-market/",
+      "source": "SITEMAPS",
+      "targetPath": "/blogs/apn/how-to-enhance-the-5g-network-planning-using-analytics-for-faster-time-to-market",
+      "id": "e8172ded3cbe2d794dead4e2e6df09dd55e3f6c8"
+    },
+    {
+      "url": "https://aws.amazon.com/blogs/apn/how-to-help-your-customers-move-their-windows-server-2003-apps-to-the-cloud/",
+      "source": "SITEMAPS",
+      "targetPath": "/blogs/apn/how-to-help-your-customers-move-their-windows-server-2003-apps-to-the-cloud",
+      "id": "753409cd4fc9526d6e090f5fb0760d9e4e4fbac3"
+    },
+    {
+      "url": "https://aws.amazon.com/blogs/apn/how-to-improve-customer-performance-with-an-amazon-ec2-instance-upgrade/",
+      "source": "SITEMAPS",
+      "targetPath": "/blogs/apn/how-to-improve-customer-performance-with-an-amazon-ec2-instance-upgrade",
+      "id": "f6a44929a5583d0077c6a941d09567837927906a"
+    },
+    {
+      "url": "https://aws.amazon.com/blogs/apn/how-to-navigate-multitenant-storage-strategies-on-aws-a-new-saas-whitepaper/",
+      "source": "SITEMAPS",
+      "targetPath": "/blogs/apn/how-to-navigate-multitenant-storage-strategies-on-aws-a-new-saas-whitepaper",
+      "id": "9408f0ddf6f05ab41b523f1b57e3911dd8221a09"
+    },
+    {
+      "url": "https://aws.amazon.com/blogs/apn/how-to-optimize-aws-cost-intelligence-and-security-compliance-with-kalos-by-stratus10/",
+      "source": "SITEMAPS",
+      "targetPath": "/blogs/apn/how-to-optimize-aws-cost-intelligence-and-security-compliance-with-kalos-by-stratus10",
+      "id": "77efbba39f9af06fbb0861cc1e063fd99e7412e3"
+    },
+    {
+      "url": "https://aws.amazon.com/blogs/apn/how-to-scale-for-growth-leverage-your-data-and-drive-down-total-cost-of-ownership-tco/",
+      "source": "SITEMAPS",
+      "targetPath": "/blogs/apn/how-to-scale-for-growth-leverage-your-data-and-drive-down-total-cost-of-ownership-tco",
+      "id": "a76b4fcabec841b6e0ff639083f9223b2f0f3321"
+    },
+    {
+      "url": "https://aws.amazon.com/blogs/apn/how-to-scale-your-aws-infrastructure-as-code-with-torque-from-quali/",
+      "source": "SITEMAPS",
+      "targetPath": "/blogs/apn/how-to-scale-your-aws-infrastructure-as-code-with-torque-from-quali",
+      "id": "895331c69dcc3a5bd5144a2a2a0c83dae2d59e26"
+    },
+    {
+      "url": "https://aws.amazon.com/blogs/apn/how-to-succeed-at-large-scale-mainframe-replatforming-with-tmaxsoft-openframe-on-aws/",
+      "source": "SITEMAPS",
+      "targetPath": "/blogs/apn/how-to-succeed-at-large-scale-mainframe-replatforming-with-tmaxsoft-openframe-on-aws",
+      "id": "1c8378f1d71dff7970124e88425a284a5c3976eb"
+    },
+    {
+      "url": "https://aws.amazon.com/blogs/apn/how-to-tier-your-data-in-mongodb-atlas-to-reduce-storage-costs/",
+      "source": "SITEMAPS",
+      "targetPath": "/blogs/apn/how-to-tier-your-data-in-mongodb-atlas-to-reduce-storage-costs",
+      "id": "b75ad28c2ff46ae4f73b11374cc1a96f302c9269"
+    },
+    {
+      "url": "https://aws.amazon.com/blogs/apn/how-to-use-amazon-rekognition-on-cloudinary-to-auto-tag-faces-with-names/",
+      "source": "SITEMAPS",
+      "targetPath": "/blogs/apn/how-to-use-amazon-rekognition-on-cloudinary-to-auto-tag-faces-with-names",
+      "id": "3afdcbe2f8115676cdcebb1d2bb562b33f6a5687"
+    },
+    {
+      "url": "https://aws.amazon.com/blogs/apn/how-to-use-thoughtspot-to-create-live-queries-against-amazon-athena-tables/",
+      "source": "SITEMAPS",
+      "targetPath": "/blogs/apn/how-to-use-thoughtspot-to-create-live-queries-against-amazon-athena-tables",
+      "id": "66724447e4642c361ca1a192c4f36c6049a75ae1"
+    },
+    {
+      "url": "https://aws.amazon.com/blogs/apn/how-to-visualize-and-monitor-your-aws-container-fleet-with-datadog/",
+      "source": "SITEMAPS",
+      "targetPath": "/blogs/apn/how-to-visualize-and-monitor-your-aws-container-fleet-with-datadog",
+      "id": "4d498a8ad157afea492238e33e35b8a937f84e81"
+    },
+    {
+      "url": "https://aws.amazon.com/blogs/apn/how-wsp-digital-improves-geospatial-pipeline-efficiency-with-aws-step-functions-and-aws-batch/",
+      "source": "SITEMAPS",
+      "targetPath": "/blogs/apn/how-wsp-digital-improves-geospatial-pipeline-efficiency-with-aws-step-functions-and-aws-batch",
+      "id": "135e37e43ef64a405118cb4b09fb154e4ac33ce6"
+    },
+    {
+      "url": "https://aws.amazon.com/blogs/apn/increase-operational-efficiency-and-drive-faster-business-outcomes-with-uipath-robots-on-aws/",
+      "source": "SITEMAPS",
+      "targetPath": "/blogs/apn/increase-operational-efficiency-and-drive-faster-business-outcomes-with-uipath-robots-on-aws",
+      "id": "f74c82cf54666b0b2ea71b40c0db7611c09731ec"
+    },
+    {
+      "url": "https://aws.amazon.com/blogs/apn/inside-sendgrids-expanded-relationship-with-aws/",
+      "source": "SITEMAPS",
+      "targetPath": "/blogs/apn/inside-sendgrids-expanded-relationship-with-aws",
+      "id": "26f8e17761f626efa753f6ca10fc6fb847c0cf78"
+    },
+    {
+      "url": "https://aws.amazon.com/blogs/apn/integrating-edge-solutions-with-aws-outposts-rack-aws-local-zones-and-megaport/",
+      "source": "SITEMAPS",
+      "targetPath": "/blogs/apn/integrating-edge-solutions-with-aws-outposts-rack-aws-local-zones-and-megaport",
+      "id": "12f0e1ba73b62e89402299578fd094a0e70ddb87"
+    },
+    {
+      "url": "https://aws.amazon.com/blogs/apn/intelligent-purchase-order-processing-for-sap-powered-by-tcs-doqulogic-on-aws/",
+      "source": "SITEMAPS",
+      "targetPath": "/blogs/apn/intelligent-purchase-order-processing-for-sap-powered-by-tcs-doqulogic-on-aws",
+      "id": "1d7a13e887763a17e357e4a898acec41fa8ece40"
+    },
+    {
+      "url": "https://aws.amazon.com/blogs/apn/introducing-the-apn-global-startup-program/",
+      "source": "SITEMAPS",
+      "targetPath": "/blogs/apn/introducing-the-apn-global-startup-program",
+      "id": "0a126d2609cd12a21f6d9186c09a2b1ec57f640b"
+    },
+    {
+      "url": "https://aws.amazon.com/blogs/apn/introducing-the-aws-iot-competency/",
+      "source": "SITEMAPS",
+      "targetPath": "/blogs/apn/introducing-the-aws-iot-competency",
+      "id": "2e77547b170cc9b671fb415653ec8c30ba2ae167"
+    },
+    {
+      "url": "https://aws.amazon.com/blogs/apn/introducing-the-aws-service-delivery-program/",
+      "source": "SITEMAPS",
+      "targetPath": "/blogs/apn/introducing-the-aws-service-delivery-program",
+      "id": "fb89df8906fb540e193732b0812f13fa14702e52"
+    },
+    {
+      "url": "https://aws.amazon.com/blogs/apn/join-us-at-the-aws-summit-san-francisco/",
+      "source": "SITEMAPS",
+      "targetPath": "/blogs/apn/join-us-at-the-aws-summit-san-francisco",
+      "id": "c30ee286822759e4288828278fbfe2cfb5c7f258"
+    },
+    {
+      "url": "https://aws.amazon.com/blogs/apn/know-before-you-go-vmware-cloud-on-aws-at-vmworld-2018-us/",
+      "source": "SITEMAPS",
+      "targetPath": "/blogs/apn/know-before-you-go-vmware-cloud-on-aws-at-vmworld-2018-us",
+      "id": "be979396c4cae7f66f8e4fe58d0663f13ba982bb"
+    },
+    {
+      "url": "https://aws.amazon.com/blogs/apn/know-before-you-virtually-go-a-guide-for-vmware-cloud-on-aws-at-vmworld-2020/",
+      "source": "SITEMAPS",
+      "targetPath": "/blogs/apn/know-before-you-virtually-go-a-guide-for-vmware-cloud-on-aws-at-vmworld-2020",
+      "id": "b90f9c3448cf61de90a84705a0fae20028ce635c"
+    },
+    {
+      "url": "https://aws.amazon.com/blogs/apn/learn-how-aws-isv-partner-solutions-can-help-you-level-up-your-well-architected-reviews/",
+      "source": "SITEMAPS",
+      "targetPath": "/blogs/apn/learn-how-aws-isv-partner-solutions-can-help-you-level-up-your-well-architected-reviews",
+      "id": "59b5557dfd391b227d94c9e215f666742b2c3a4b"
+    },
+    {
+      "url": "https://aws.amazon.com/blogs/apn/level-up-your-cloud-skills-and-get-aws-certified-at-reinvent-2017/",
+      "source": "SITEMAPS",
+      "targetPath": "/blogs/apn/level-up-your-cloud-skills-and-get-aws-certified-at-reinvent-2017",
+      "id": "4d6bcc48271f9f34fb7984d365c41278f6d16505"
+    },
+    {
+      "url": "https://aws.amazon.com/blogs/apn/leveraging-serverless-architecture-to-build-an-enterprise-data-repository-platform-for-customer-insights-and-analytics/",
+      "source": "SITEMAPS",
+      "targetPath": "/blogs/apn/leveraging-serverless-architecture-to-build-an-enterprise-data-repository-platform-for-customer-insights-and-analytics",
+      "id": "2a57f12bfe3a5073292196cdebb4a708136ffdf2"
+    },
+    {
+      "url": "https://aws.amazon.com/blogs/apn/low-latency-real-time-cache-updates-with-amazon-elasticache-for-redis-and-confluent-cloud-kafka/",
+      "source": "SITEMAPS",
+      "targetPath": "/blogs/apn/low-latency-real-time-cache-updates-with-amazon-elasticache-for-redis-and-confluent-cloud-kafka",
+      "id": "64adb7c157be92a2333a026191678db2be1c8b4e"
+    },
+    {
+      "url": "https://aws.amazon.com/blogs/apn/maintaining-a-health-and-wellness-repository-with-a-blockchain-based-health-monitoring-solution/",
+      "source": "SITEMAPS",
+      "targetPath": "/blogs/apn/maintaining-a-health-and-wellness-repository-with-a-blockchain-based-health-monitoring-solution",
+      "id": "3a773af526991e497fd50132f8d72217f6a8f984"
+    },
+    {
+      "url": "https://aws.amazon.com/blogs/apn/meet-sovereignty-and-compliance-requirements-with-aws-digital-sovereignty-competency-partners/",
+      "source": "SITEMAPS",
+      "targetPath": "/blogs/apn/meet-sovereignty-and-compliance-requirements-with-aws-digital-sovereignty-competency-partners",
+      "id": "115046480f2bac99a12a98694ad42270fd2693e7"
+    },
+    {
+      "url": "https://aws.amazon.com/blogs/apn/migrating-workloads-to-vmware-cloud-on-aws-with-hybrid-cloud-extension-hcx/",
+      "source": "SITEMAPS",
+      "targetPath": "/blogs/apn/migrating-workloads-to-vmware-cloud-on-aws-with-hybrid-cloud-extension-hcx",
+      "id": "0ef8393b2430ea36abd5b868787d310e706879f3"
+    },
+    {
+      "url": "https://aws.amazon.com/blogs/apn/mongodb-on-the-aws-cloud-exclusive-early-release-for-apn-partners/",
+      "source": "SITEMAPS",
+      "targetPath": "/blogs/apn/mongodb-on-the-aws-cloud-exclusive-early-release-for-apn-partners",
+      "id": "9254f403751422c95c1742ffecc7789c89fd7787"
+    },
+    {
+      "url": "https://aws.amazon.com/blogs/apn/more-value-greater-profitability-10-enhancements-to-the-aws-partner-experience/",
+      "source": "SITEMAPS",
+      "targetPath": "/blogs/apn/more-value-greater-profitability-10-enhancements-to-the-aws-partner-experience",
+      "id": "e3fc94684381ad976a275babe143bec1a885c471"
+    },
+    {
+      "url": "https://aws.amazon.com/blogs/apn/new-aws-co-branding-guide-provides-best-practices-for-joint-marketing-with-aws/",
+      "source": "SITEMAPS",
+      "targetPath": "/blogs/apn/new-aws-co-branding-guide-provides-best-practices-for-joint-marketing-with-aws",
+      "id": "ccac48f8802e0c589c65731cf70b439a8107784b"
+    },
+    {
+      "url": "https://aws.amazon.com/blogs/apn/new-feature-simplifies-saas-procurement-in-aws-marketplace/",
+      "source": "SITEMAPS",
+      "targetPath": "/blogs/apn/new-feature-simplifies-saas-procurement-in-aws-marketplace",
+      "id": "e28762359523f1baa937a901ffe8ee932e85e94d"
+    },
+    {
+      "url": "https://aws.amazon.com/blogs/apn/new-machine-learning-discovery-page-on-aws-marketplace/",
+      "source": "SITEMAPS",
+      "targetPath": "/blogs/apn/new-machine-learning-discovery-page-on-aws-marketplace",
+      "id": "f7ba0f2cccb9bca14fc746b32a29649e6695698f"
+    },
+    {
+      "url": "https://aws.amazon.com/blogs/apn/new-powered-by-amazon-redshift-program-helps-aws-partners-enable-customers-with-analytics-at-any-scale/",
+      "source": "SITEMAPS",
+      "targetPath": "/blogs/apn/new-powered-by-amazon-redshift-program-helps-aws-partners-enable-customers-with-analytics-at-any-scale",
+      "id": "82d8f5ca42f09f41f0f5064c727823a8e561b887"
+    },
+    {
+      "url": "https://aws.amazon.com/blogs/apn/one-year-later-the-value-of-the-aws-government-competency-for-apn-partners-and-customers/",
+      "source": "SITEMAPS",
+      "targetPath": "/blogs/apn/one-year-later-the-value-of-the-aws-government-competency-for-apn-partners-and-customers",
+      "id": "579c4c580b157e5d288547a4b9c16040f7d81e09"
+    },
+    {
+      "url": "https://aws.amazon.com/blogs/apn/operata-service-monitoring-and-assurance-for-cloud-contact-centers-and-amazon-connect/",
+      "source": "SITEMAPS",
+      "targetPath": "/blogs/apn/operata-service-monitoring-and-assurance-for-cloud-contact-centers-and-amazon-connect",
+      "id": "c4018afac1943a1ec77e4fa67de21444638b8870"
+    },
+    {
+      "url": "https://aws.amazon.com/blogs/apn/optimize-price-performance-for-amazon-ec2-workloads-with-aws-graviton-delivery-partners/",
+      "source": "SITEMAPS",
+      "targetPath": "/blogs/apn/optimize-price-performance-for-amazon-ec2-workloads-with-aws-graviton-delivery-partners",
+      "id": "427f22e4668a221fa884627e03aca48eb61fa2b0"
+    }
+  ]
+}
